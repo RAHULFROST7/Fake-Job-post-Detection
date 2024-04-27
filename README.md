@@ -55,12 +55,12 @@ git clone https://github.com/RAHULFROST7/Fake-Job-post-Detection.git
 2. Navigate to the cloned directory:
 
 ```bash
-cd FAKE JOB DETECTION
+cd fake job detection
 ```
 
-3. Install the required dependencies
+3. Install the required dependencies.
 
-4. Execute the `app_1_ml.ipynb` script or `app_2_nn.ipynb`.
+4. Execute the `app_1_ml.ipynb` an machine learing approach or `app_2_nn.ipynb` an neural network approach.
 
 ## Requirements
 
